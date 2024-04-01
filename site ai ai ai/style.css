@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.cabeça {
+    background-color: #FFC9D6;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo-massa{
+    width: 13%;
+}
+.sofro{
+    width: 30%;
+}
+.aiai{
+    width: 30%;
+}
+
+.se{
+    width: 30%;
+}
+
+.arrependimento{
+    width: 30%;
+}
+
+.corpinho{
+    background-color: #FFE7ED;
+}
+
